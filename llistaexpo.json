@@ -1,0 +1,34 @@
+[{
+    "id": 1,
+    "titulo": "Es un título de la página",
+    "srcimg": "https://raw.githubusercontent.com/elbabati/The-Balema-Museum/main/actuals/actual1.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 2,
+    "titulo": "Título del proyecto",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual2.jpg?raw=true/",
+    "alt": "Descripción de la imágen",
+    "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
+    "url": "http://www.google.com"
+},
+{
+    "id": 3,
+    "titulo": "Título del proyecto",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual3.jpg?raw=true",
+    "alt": "Descripción de la imágen",
+    "texto": "Aquí has de poner un texto descriptivo del proyecto",
+    "url": "http://www.google.com"
+},
+{
+    "id": 4,
+    "titulo": "Título del proyecto",
+    "srcimg": "https://github.com/elbabati/The-Balema-Museum/blob/main/actuals/actual4.jpg?raw=true",
+    "alt": "Descripción de la imágen",
+    "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. ",
+    "url": "http://www.google.com"
+}
+
+]
